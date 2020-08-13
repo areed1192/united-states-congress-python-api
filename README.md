@@ -45,7 +45,7 @@ data_sources = congress_client.data_sources()
 pprint(data_sources)
 
 # Grab the different resources from the Privacy Act Issuance.
-pia_2017 = congress_client.privacy_act_issuances(file='2017')
+pia_2017 = congress_client.privacy_act_issuances(folder='2017')
 pprint(pia_2017)
 ```
 
