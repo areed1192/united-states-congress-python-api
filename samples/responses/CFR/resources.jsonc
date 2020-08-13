@@ -1,0 +1,60 @@
+{
+  "files": [
+    {
+      "mimeType": "application/pdf",
+      "size": 70824,
+      "formattedLastModifiedTime": "07-Jan-2020 10:17",
+      "name": "CFR-XML_User-Guide_v1.pdf",
+      "folder": false,
+      "displayLabel": "CFR-XML_User-Guide_v1.pdf",
+      "formattedSize": "69.2 kB",
+      "link": "https://www.govinfo.gov/bulkdata/CFR/resources/CFR-XML_User-Guide_v1.pdf",
+      "justFileName": "CFR-XML_User-Guide_v1.pdf",
+      "fileExtension": "pdf"
+    },
+    {
+      "size": 66021,
+      "formattedLastModifiedTime": "07-Jan-2020 10:17",
+      "name": "cfr.xsl",
+      "folder": false,
+      "displayLabel": "cfr.xsl",
+      "formattedSize": "64.5 kB",
+      "link": "https://www.govinfo.gov/bulkdata/CFR/resources/cfr.xsl",
+      "justFileName": "cfr.xsl",
+      "fileExtension": "xsl"
+    },
+    {
+      "size": 248366,
+      "formattedLastModifiedTime": "02-Jan-2019 08:10",
+      "name": "CFRMergedXML.xsd",
+      "folder": false,
+      "displayLabel": "CFRMergedXML.xsd",
+      "formattedSize": "242.5 kB",
+      "link": "https://www.govinfo.gov/bulkdata/CFR/resources/CFRMergedXML.xsd",
+      "justFileName": "CFRMergedXML.xsd",
+      "fileExtension": "xsd"
+    },
+    {
+      "mimeType": "text/html",
+      "size": 1118,
+      "formattedLastModifiedTime": "02-Jan-2019 08:10",
+      "name": "lockss.html",
+      "folder": false,
+      "displayLabel": "lockss.html",
+      "formattedSize": "1.1 kB",
+      "link": "https://www.govinfo.gov/bulkdata/CFR/resources/lockss.html",
+      "justFileName": "lockss.html"
+    },
+    {
+      "size": 139336,
+      "formattedLastModifiedTime": "07-Jan-2020 10:17",
+      "name": "CFRDOC.DTD",
+      "folder": false,
+      "displayLabel": "CFRDOC.DTD",
+      "formattedSize": "136.1 kB",
+      "link": "https://www.govinfo.gov/bulkdata/CFR/resources/CFRDOC.DTD",
+      "justFileName": "CFRDOC.DTD",
+      "fileExtension": "DTD"
+    }
+  ]
+}

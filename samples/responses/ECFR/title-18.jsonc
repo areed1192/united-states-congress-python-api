@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "mimeType": "application/xml",
+      "size": 7092169,
+      "formattedLastModifiedTime": "06-Aug-2020 11:30",
+      "name": "ECFR-title18.xml",
+      "folder": false,
+      "displayLabel": "ECFR-title18.xml",
+      "formattedSize": "6.8 MB",
+      "link": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+      "justFileName": "ECFR-title18.xml",
+      "fileExtension": "xml"
+    },
+    {
+      "mimeType": "application/zip",
+      "size": 2108991,
+      "formattedLastModifiedTime": "06-Aug-2020 11:30",
+      "name": "ECFR-title18-graphics.zip",
+      "folder": false,
+      "displayLabel": "ECFR-title18-graphics.zip",
+      "formattedSize": "2 MB",
+      "link": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18-graphics.zip",
+      "justFileName": "ECFR-title18-graphics.zip",
+      "fileExtension": "zip"
+    }
+  ]
+}

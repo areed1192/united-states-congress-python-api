@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "mimeType": "text/html",
+      "size": 1210,
+      "formattedLastModifiedTime": "02-Jan-2019 08:10",
+      "name": "LOCKSS.htm",
+      "folder": false,
+      "displayLabel": "LOCKSS.htm",
+      "formattedSize": "1.2 kB",
+      "link": "https://www.govinfo.gov/bulkdata/BILLSUM/resources/LOCKSS.htm",
+      "justFileName": "LOCKSS.htm",
+      "fileExtension": "htm"
+    },
+    {
+      "mimeType": "application/pdf",
+      "size": 155791,
+      "formattedLastModifiedTime": "02-Jan-2019 08:10",
+      "name": "BILLSUM-XML_User-Guide-v2.pdf",
+      "folder": false,
+      "displayLabel": "BILLSUM-XML_User-Guide-v2.pdf",
+      "formattedSize": "152.1 kB",
+      "link": "https://www.govinfo.gov/bulkdata/BILLSUM/resources/BILLSUM-XML_User-Guide-v2.pdf",
+      "justFileName": "BILLSUM-XML_User-Guide-v2.pdf",
+      "fileExtension": "pdf"
+    }
+  ]
+}

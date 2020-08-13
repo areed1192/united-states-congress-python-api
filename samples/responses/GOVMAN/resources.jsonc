@@ -1,0 +1,26 @@
+{
+  "files": [
+    {
+      "mimeType": "text/html",
+      "size": 1118,
+      "formattedLastModifiedTime": "02-Jan-2019 08:10",
+      "name": "lockss.html",
+      "folder": false,
+      "displayLabel": "lockss.html",
+      "formattedSize": "1.1 kB",
+      "link": "https://www.govinfo.gov/bulkdata/GOVMAN/resources/lockss.html",
+      "justFileName": "lockss.html"
+    },
+    {
+      "size": 12080,
+      "formattedLastModifiedTime": "07-Jan-2020 10:17",
+      "name": "govman.xsl",
+      "folder": false,
+      "displayLabel": "govman.xsl",
+      "formattedSize": "11.8 kB",
+      "link": "https://www.govinfo.gov/bulkdata/GOVMAN/resources/govman.xsl",
+      "justFileName": "govman.xsl",
+      "fileExtension": "xsl"
+    }
+  ]
+}

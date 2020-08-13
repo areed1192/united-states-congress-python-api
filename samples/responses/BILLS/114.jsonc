@@ -1,0 +1,20 @@
+{
+  "files": [
+    {
+      "formattedLastModifiedTime": "21-Jan-2016 12:46",
+      "name": "2",
+      "folder": true,
+      "displayLabel": "2nd Session",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLS/114/2",
+      "justFileName": "2"
+    },
+    {
+      "formattedLastModifiedTime": "09-Jan-2015 12:29",
+      "name": "1",
+      "folder": true,
+      "displayLabel": "1st Session",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLS/114/1",
+      "justFileName": "1"
+    }
+  ]
+}

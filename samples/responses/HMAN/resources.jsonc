@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "mimeType": "text/html",
+      "size": 1210,
+      "formattedLastModifiedTime": "02-Jan-2019 08:10",
+      "name": "LOCKSS.htm",
+      "folder": false,
+      "displayLabel": "LOCKSS.htm",
+      "formattedSize": "1.2 kB",
+      "link": "https://www.govinfo.gov/bulkdata/HMAN/resources/LOCKSS.htm",
+      "fileExtension": "htm",
+      "justFileName": "LOCKSS.htm"
+    },
+    {
+      "mimeType": "application/pdf",
+      "size": 134532,
+      "formattedLastModifiedTime": "02-Jan-2019 08:10",
+      "name": "HMAN-XML_User-Guide-v1.pdf",
+      "folder": false,
+      "displayLabel": "HMAN-XML_User-Guide-v1.pdf",
+      "formattedSize": "131.4 kB",
+      "link": "https://www.govinfo.gov/bulkdata/HMAN/resources/HMAN-XML_User-Guide-v1.pdf",
+      "fileExtension": "pdf",
+      "justFileName": "HMAN-XML_User-Guide-v1.pdf"
+    }
+  ]
+}

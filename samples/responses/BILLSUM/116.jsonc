@@ -1,0 +1,68 @@
+{
+  "files": [
+    {
+      "formattedLastModifiedTime": "13-Aug-2020 08:49",
+      "name": "hr",
+      "folder": true,
+      "displayLabel": "hr",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/116/hr",
+      "justFileName": "hr"
+    },
+    {
+      "formattedLastModifiedTime": "13-Aug-2020 08:49",
+      "name": "hres",
+      "folder": true,
+      "displayLabel": "hres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/116/hres",
+      "justFileName": "hres"
+    },
+    {
+      "formattedLastModifiedTime": "11-Aug-2020 08:49",
+      "name": "hjres",
+      "folder": true,
+      "displayLabel": "hjres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/116/hjres",
+      "justFileName": "hjres"
+    },
+    {
+      "formattedLastModifiedTime": "13-Aug-2020 08:48",
+      "name": "hconres",
+      "folder": true,
+      "displayLabel": "hconres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/116/hconres",
+      "justFileName": "hconres"
+    },
+    {
+      "formattedLastModifiedTime": "07-Aug-2020 08:49",
+      "name": "sjres",
+      "folder": true,
+      "displayLabel": "sjres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/116/sjres",
+      "justFileName": "sjres"
+    },
+    {
+      "formattedLastModifiedTime": "13-Aug-2020 08:48",
+      "name": "sres",
+      "folder": true,
+      "displayLabel": "sres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/116/sres",
+      "justFileName": "sres"
+    },
+    {
+      "formattedLastModifiedTime": "13-Aug-2020 08:48",
+      "name": "s",
+      "folder": true,
+      "displayLabel": "s",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/116/s",
+      "justFileName": "s"
+    },
+    {
+      "formattedLastModifiedTime": "12-Aug-2020 08:49",
+      "name": "sconres",
+      "folder": true,
+      "displayLabel": "sconres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/116/sconres",
+      "justFileName": "sconres"
+    }
+  ]
+}

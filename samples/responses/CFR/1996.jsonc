@@ -1,0 +1,106 @@
+{
+  "files": [
+    {
+      "formattedLastModifiedTime": "21-Sep-2010 08:21",
+      "name": "title-42",
+      "folder": true,
+      "displayLabel": "title-42",
+      "cfrTitle": 42,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/1996/title-42",
+      "justFileName": "title-42"
+    },
+    {
+      "formattedLastModifiedTime": "21-Sep-2010 08:21",
+      "name": "title-21",
+      "folder": true,
+      "displayLabel": "title-21",
+      "cfrTitle": 21,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/1996/title-21",
+      "justFileName": "title-21"
+    },
+    {
+      "formattedLastModifiedTime": "21-Sep-2010 08:21",
+      "name": "title-47",
+      "folder": true,
+      "displayLabel": "title-47",
+      "cfrTitle": 47,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/1996/title-47",
+      "justFileName": "title-47"
+    },
+    {
+      "formattedLastModifiedTime": "07-Mar-2011 04:33",
+      "name": "title-49",
+      "folder": true,
+      "displayLabel": "title-49",
+      "cfrTitle": 49,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/1996/title-49",
+      "justFileName": "title-49"
+    },
+    {
+      "formattedLastModifiedTime": "21-Sep-2010 08:21",
+      "name": "title-40",
+      "folder": true,
+      "displayLabel": "title-40",
+      "cfrTitle": 40,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/1996/title-40",
+      "justFileName": "title-40"
+    },
+    {
+      "formattedLastModifiedTime": "21-Sep-2010 08:21",
+      "name": "title-45",
+      "folder": true,
+      "displayLabel": "title-45",
+      "cfrTitle": 45,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/1996/title-45",
+      "justFileName": "title-45"
+    },
+    {
+      "formattedLastModifiedTime": "21-Sep-2010 08:22",
+      "name": "title-46",
+      "folder": true,
+      "displayLabel": "title-46",
+      "cfrTitle": 46,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/1996/title-46",
+      "justFileName": "title-46"
+    },
+    {
+      "formattedLastModifiedTime": "21-Sep-2010 08:22",
+      "name": "title-43",
+      "folder": true,
+      "displayLabel": "title-43",
+      "cfrTitle": 43,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/1996/title-43",
+      "justFileName": "title-43"
+    },
+    {
+      "formattedLastModifiedTime": "21-Sep-2010 08:22",
+      "name": "title-50",
+      "folder": true,
+      "displayLabel": "title-50",
+      "cfrTitle": 50,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/1996/title-50",
+      "justFileName": "title-50"
+    },
+    {
+      "formattedLastModifiedTime": "21-Sep-2010 08:22",
+      "name": "title-48",
+      "folder": true,
+      "displayLabel": "title-48",
+      "cfrTitle": 48,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/1996/title-48",
+      "justFileName": "title-48"
+    },
+    {
+      "mimeType": "application/zip",
+      "size": 27862474,
+      "formattedLastModifiedTime": "14-Mar-2013 08:40",
+      "name": "CFR-1996.zip",
+      "folder": false,
+      "displayLabel": "CFR-1996.zip",
+      "formattedSize": "26.6 MB",
+      "link": "https://www.govinfo.gov/bulkdata/CFR/1996/CFR-1996.zip",
+      "fileExtension": "zip",
+      "justFileName": "CFR-1996.zip"
+    }
+  ]
+}

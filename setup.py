@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name='united-states-congress',
+    name='united-states-congress-python-api',
     author='Alex Reed',
     author_email='coding.sigma@gmail.com',
-    version='0.0.1',
+    version='0.0.2',
     description='',
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -23,7 +23,10 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Natural Language :: English',
         'Operating System :: OS Independent',
-        'Programming Language :: Python :: 3'
+        'Programming Language :: Python :: 3',
+        'Topic :: Office/Business :: News/Diary',
+        'Intended Audience :: Science/Research',
+        'Intended Audience :: Legal Industry'
     ],
     python_requires='>3.7'
 )

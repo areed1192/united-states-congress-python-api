@@ -1,0 +1,457 @@
+{
+  "files": [
+    {
+      "formattedLastModifiedTime": "09-Jan-2020 02:41",
+      "name": "title-5",
+      "folder": true,
+      "displayLabel": "title-5",
+      "cfrTitle": 5,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-5",
+      "justFileName": "title-5"
+    },
+    {
+      "formattedLastModifiedTime": "08-Jan-2020 11:40",
+      "name": "title-6",
+      "folder": true,
+      "displayLabel": "title-6",
+      "cfrTitle": 6,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-6",
+      "justFileName": "title-6"
+    },
+    {
+      "formattedLastModifiedTime": "11-Jan-2020 08:06",
+      "name": "title-1",
+      "folder": true,
+      "displayLabel": "title-1",
+      "cfrTitle": 1,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-1",
+      "justFileName": "title-1"
+    },
+    {
+      "formattedLastModifiedTime": "08-Jan-2020 11:31",
+      "name": "title-7",
+      "folder": true,
+      "displayLabel": "title-7",
+      "cfrTitle": 7,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-7",
+      "justFileName": "title-7"
+    },
+    {
+      "formattedLastModifiedTime": "11-Jan-2020 02:52",
+      "name": "title-14",
+      "folder": true,
+      "displayLabel": "title-14",
+      "cfrTitle": 14,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-14",
+      "justFileName": "title-14"
+    },
+    {
+      "formattedLastModifiedTime": "11-Jan-2020 06:06",
+      "name": "title-12",
+      "folder": true,
+      "displayLabel": "title-12",
+      "cfrTitle": 12,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-12",
+      "justFileName": "title-12"
+    },
+    {
+      "formattedLastModifiedTime": "11-Jan-2020 03:23",
+      "name": "title-13",
+      "folder": true,
+      "displayLabel": "title-13",
+      "cfrTitle": 13,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-13",
+      "justFileName": "title-13"
+    },
+    {
+      "formattedLastModifiedTime": "10-Jan-2020 06:50",
+      "name": "title-4",
+      "folder": true,
+      "displayLabel": "title-4",
+      "cfrTitle": 4,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-4",
+      "justFileName": "title-4"
+    },
+    {
+      "formattedLastModifiedTime": "08-Jan-2020 05:37",
+      "name": "title-9",
+      "folder": true,
+      "displayLabel": "title-9",
+      "cfrTitle": 9,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-9",
+      "justFileName": "title-9"
+    },
+    {
+      "formattedLastModifiedTime": "08-Jan-2020 05:57",
+      "name": "title-8",
+      "folder": true,
+      "displayLabel": "title-8",
+      "cfrTitle": 8,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-8",
+      "justFileName": "title-8"
+    },
+    {
+      "formattedLastModifiedTime": "11-Jan-2020 12:45",
+      "name": "title-15",
+      "folder": true,
+      "displayLabel": "title-15",
+      "cfrTitle": 15,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-15",
+      "justFileName": "title-15"
+    },
+    {
+      "formattedLastModifiedTime": "11-Jan-2020 12:01",
+      "name": "title-16",
+      "folder": true,
+      "displayLabel": "title-16",
+      "cfrTitle": 16,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-16",
+      "justFileName": "title-16"
+    },
+    {
+      "formattedLastModifiedTime": "11-Jan-2020 06:16",
+      "name": "title-11",
+      "folder": true,
+      "displayLabel": "title-11",
+      "cfrTitle": 11,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-11",
+      "justFileName": "title-11"
+    },
+    {
+      "formattedLastModifiedTime": "11-Jan-2020 08:03",
+      "name": "title-10",
+      "folder": true,
+      "displayLabel": "title-10",
+      "cfrTitle": 10,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-10",
+      "justFileName": "title-10"
+    },
+    {
+      "formattedLastModifiedTime": "11-Jan-2020 08:42",
+      "name": "title-2",
+      "folder": true,
+      "displayLabel": "title-2",
+      "cfrTitle": 2,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-2",
+      "justFileName": "title-2"
+    },
+    {
+      "formattedLastModifiedTime": "11-Jan-2020 06:21",
+      "name": "title-21",
+      "folder": true,
+      "displayLabel": "title-21",
+      "cfrTitle": 21,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-21",
+      "justFileName": "title-21"
+    },
+    {
+      "formattedLastModifiedTime": "24-Jan-2020 07:16",
+      "name": "title-18",
+      "folder": true,
+      "displayLabel": "title-18",
+      "cfrTitle": 18,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-18",
+      "justFileName": "title-18"
+    },
+    {
+      "formattedLastModifiedTime": "11-Jan-2020 02:31",
+      "name": "title-24",
+      "folder": true,
+      "displayLabel": "title-24",
+      "cfrTitle": 24,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-24",
+      "justFileName": "title-24"
+    },
+    {
+      "formattedLastModifiedTime": "11-Jan-2020 01:12",
+      "name": "title-25",
+      "folder": true,
+      "displayLabel": "title-25",
+      "cfrTitle": 25,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-25",
+      "justFileName": "title-25"
+    },
+    {
+      "formattedLastModifiedTime": "11-Jan-2020 09:38",
+      "name": "title-19",
+      "folder": true,
+      "displayLabel": "title-19",
+      "cfrTitle": 19,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-19",
+      "justFileName": "title-19"
+    },
+    {
+      "formattedLastModifiedTime": "10-Jan-2020 11:36",
+      "name": "title-26",
+      "folder": true,
+      "displayLabel": "title-26",
+      "cfrTitle": 26,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-26",
+      "justFileName": "title-26"
+    },
+    {
+      "formattedLastModifiedTime": "10-Jan-2020 04:45",
+      "name": "title-3",
+      "folder": true,
+      "displayLabel": "title-3",
+      "cfrTitle": 3,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-3",
+      "justFileName": "title-3"
+    },
+    {
+      "formattedLastModifiedTime": "11-Jan-2020 08:12",
+      "name": "title-20",
+      "folder": true,
+      "displayLabel": "title-20",
+      "cfrTitle": 20,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-20",
+      "justFileName": "title-20"
+    },
+    {
+      "formattedLastModifiedTime": "11-Jan-2020 11:18",
+      "name": "title-17",
+      "folder": true,
+      "displayLabel": "title-17",
+      "cfrTitle": 17,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-17",
+      "justFileName": "title-17"
+    },
+    {
+      "formattedLastModifiedTime": "11-Jan-2020 04:00",
+      "name": "title-22",
+      "folder": true,
+      "displayLabel": "title-22",
+      "cfrTitle": 22,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-22",
+      "justFileName": "title-22"
+    },
+    {
+      "formattedLastModifiedTime": "10-Jan-2020 09:29",
+      "name": "title-27",
+      "folder": true,
+      "displayLabel": "title-27",
+      "cfrTitle": 27,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-27",
+      "justFileName": "title-27"
+    },
+    {
+      "formattedLastModifiedTime": "11-Jan-2020 02:51",
+      "name": "title-23",
+      "folder": true,
+      "displayLabel": "title-23",
+      "cfrTitle": 23,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-23",
+      "justFileName": "title-23"
+    },
+    {
+      "formattedLastModifiedTime": "10-Jan-2020 04:48",
+      "name": "title-30",
+      "folder": true,
+      "displayLabel": "title-30",
+      "cfrTitle": 30,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-30",
+      "justFileName": "title-30"
+    },
+    {
+      "formattedLastModifiedTime": "10-Jan-2020 10:33",
+      "name": "title-34",
+      "folder": true,
+      "displayLabel": "title-34",
+      "cfrTitle": 34,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-34",
+      "justFileName": "title-34"
+    },
+    {
+      "formattedLastModifiedTime": "10-Jan-2020 07:13",
+      "name": "title-29",
+      "folder": true,
+      "displayLabel": "title-29",
+      "cfrTitle": 29,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-29",
+      "justFileName": "title-29"
+    },
+    {
+      "formattedLastModifiedTime": "10-Jan-2020 12:03",
+      "name": "title-33",
+      "folder": true,
+      "displayLabel": "title-33",
+      "cfrTitle": 33,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-33",
+      "justFileName": "title-33"
+    },
+    {
+      "formattedLastModifiedTime": "10-Jan-2020 08:10",
+      "name": "title-28",
+      "folder": true,
+      "displayLabel": "title-28",
+      "cfrTitle": 28,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-28",
+      "justFileName": "title-28"
+    },
+    {
+      "formattedLastModifiedTime": "10-Jan-2020 01:35",
+      "name": "title-32",
+      "folder": true,
+      "displayLabel": "title-32",
+      "cfrTitle": 32,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-32",
+      "justFileName": "title-32"
+    },
+    {
+      "mimeType": "application/zip",
+      "size": 171758897,
+      "formattedLastModifiedTime": "12-Mar-2020 07:49",
+      "name": "CFR-2018.zip",
+      "folder": false,
+      "displayLabel": "CFR-2018.zip",
+      "formattedSize": "163.8 MB",
+      "link": "https://www.govinfo.gov/bulkdata/CFR/2018/CFR-2018.zip",
+      "fileExtension": "zip",
+      "justFileName": "CFR-2018.zip"
+    },
+    {
+      "formattedLastModifiedTime": "10-Jan-2020 07:13",
+      "name": "title-39",
+      "folder": true,
+      "displayLabel": "title-39",
+      "cfrTitle": 39,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-39",
+      "justFileName": "title-39"
+    },
+    {
+      "formattedLastModifiedTime": "05-Feb-2020 08:26",
+      "name": "title-38",
+      "folder": true,
+      "displayLabel": "title-38",
+      "cfrTitle": 38,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-38",
+      "justFileName": "title-38"
+    },
+    {
+      "formattedLastModifiedTime": "10-Jan-2020 09:23",
+      "name": "title-36",
+      "folder": true,
+      "displayLabel": "title-36",
+      "cfrTitle": 36,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-36",
+      "justFileName": "title-36"
+    },
+    {
+      "formattedLastModifiedTime": "09-Jan-2020 09:16",
+      "name": "title-41",
+      "folder": true,
+      "displayLabel": "title-41",
+      "cfrTitle": 41,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-41",
+      "justFileName": "title-41"
+    },
+    {
+      "formattedLastModifiedTime": "12-Jan-2020 07:05",
+      "name": "title-40",
+      "folder": true,
+      "displayLabel": "title-40",
+      "cfrTitle": 40,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-40",
+      "justFileName": "title-40"
+    },
+    {
+      "formattedLastModifiedTime": "10-Jan-2020 02:58",
+      "name": "title-31",
+      "folder": true,
+      "displayLabel": "title-31",
+      "cfrTitle": 31,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-31",
+      "justFileName": "title-31"
+    },
+    {
+      "formattedLastModifiedTime": "25-Feb-2020 07:26",
+      "name": "title-50",
+      "folder": true,
+      "displayLabel": "title-50",
+      "cfrTitle": 50,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-50",
+      "justFileName": "title-50"
+    },
+    {
+      "formattedLastModifiedTime": "27-Feb-2020 07:24",
+      "name": "title-47",
+      "folder": true,
+      "displayLabel": "title-47",
+      "cfrTitle": 47,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-47",
+      "justFileName": "title-47"
+    },
+    {
+      "formattedLastModifiedTime": "25-Feb-2020 03:52",
+      "name": "title-42",
+      "folder": true,
+      "displayLabel": "title-42",
+      "cfrTitle": 42,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-42",
+      "justFileName": "title-42"
+    },
+    {
+      "formattedLastModifiedTime": "21-Feb-2020 07:30",
+      "name": "title-45",
+      "folder": true,
+      "displayLabel": "title-45",
+      "cfrTitle": 45,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-45",
+      "justFileName": "title-45"
+    },
+    {
+      "formattedLastModifiedTime": "12-Mar-2020 07:48",
+      "name": "title-48",
+      "folder": true,
+      "displayLabel": "title-48",
+      "cfrTitle": 48,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-48",
+      "justFileName": "title-48"
+    },
+    {
+      "formattedLastModifiedTime": "29-Jan-2020 01:09",
+      "name": "title-46",
+      "folder": true,
+      "displayLabel": "title-46",
+      "cfrTitle": 46,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-46",
+      "justFileName": "title-46"
+    },
+    {
+      "formattedLastModifiedTime": "09-Jan-2020 03:56",
+      "name": "title-44",
+      "folder": true,
+      "displayLabel": "title-44",
+      "cfrTitle": 44,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-44",
+      "justFileName": "title-44"
+    },
+    {
+      "formattedLastModifiedTime": "02-Feb-2020 09:54",
+      "name": "title-43",
+      "folder": true,
+      "displayLabel": "title-43",
+      "cfrTitle": 43,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-43",
+      "justFileName": "title-43"
+    },
+    {
+      "formattedLastModifiedTime": "10-Jan-2020 08:28",
+      "name": "title-37",
+      "folder": true,
+      "displayLabel": "title-37",
+      "cfrTitle": 37,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-37",
+      "justFileName": "title-37"
+    },
+    {
+      "formattedLastModifiedTime": "11-Feb-2020 03:16",
+      "name": "title-49",
+      "folder": true,
+      "displayLabel": "title-49",
+      "cfrTitle": 49,
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR/2018/title-49",
+      "justFileName": "title-49"
+    }
+  ]
+}

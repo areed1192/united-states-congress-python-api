@@ -1,0 +1,68 @@
+{
+  "files": [
+    {
+      "formattedLastModifiedTime": "08-Jan-2015 10:19",
+      "name": "hconres",
+      "folder": true,
+      "displayLabel": "hconres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/113/hconres",
+      "justFileName": "hconres"
+    },
+    {
+      "formattedLastModifiedTime": "08-Feb-2015 10:16",
+      "name": "hres",
+      "folder": true,
+      "displayLabel": "hres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/113/hres",
+      "justFileName": "hres"
+    },
+    {
+      "formattedLastModifiedTime": "16-Dec-2014 11:31",
+      "name": "hjres",
+      "folder": true,
+      "displayLabel": "hjres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/113/hjres",
+      "justFileName": "hjres"
+    },
+    {
+      "formattedLastModifiedTime": "27-Sep-2016 01:05",
+      "name": "hr",
+      "folder": true,
+      "displayLabel": "hr",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/113/hr",
+      "justFileName": "hr"
+    },
+    {
+      "formattedLastModifiedTime": "14-Jan-2015 09:39",
+      "name": "sconres",
+      "folder": true,
+      "displayLabel": "sconres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/113/sconres",
+      "justFileName": "sconres"
+    },
+    {
+      "formattedLastModifiedTime": "25-May-2016 08:05",
+      "name": "s",
+      "folder": true,
+      "displayLabel": "s",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/113/s",
+      "justFileName": "s"
+    },
+    {
+      "formattedLastModifiedTime": "14-Jan-2015 11:46",
+      "name": "sjres",
+      "folder": true,
+      "displayLabel": "sjres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/113/sjres",
+      "justFileName": "sjres"
+    },
+    {
+      "formattedLastModifiedTime": "14-Jan-2015 11:58",
+      "name": "sres",
+      "folder": true,
+      "displayLabel": "sres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/113/sres",
+      "justFileName": "sres"
+    }
+  ]
+}

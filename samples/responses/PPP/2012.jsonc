@@ -1,0 +1,40 @@
+{
+  "files": [
+    {
+      "mimeType": "application/xml",
+      "size": 5293976,
+      "formattedLastModifiedTime": "03-Dec-2019 10:02",
+      "name": "PPP-2012-book1.xml",
+      "folder": false,
+      "displayLabel": "PPP-2012-book1.xml",
+      "formattedSize": "5 MB",
+      "link": "https://www.govinfo.gov/bulkdata/PPP/2012/PPP-2012-book1.xml",
+      "justFileName": "PPP-2012-book1.xml",
+      "fileExtension": "xml"
+    },
+    {
+      "mimeType": "application/zip",
+      "size": 2767598,
+      "formattedLastModifiedTime": "03-Dec-2019 10:03",
+      "name": "PPP-2012.zip",
+      "folder": false,
+      "displayLabel": "PPP-2012.zip",
+      "formattedSize": "2.6 MB",
+      "link": "https://www.govinfo.gov/bulkdata/PPP/2012/PPP-2012.zip",
+      "justFileName": "PPP-2012.zip",
+      "fileExtension": "zip"
+    },
+    {
+      "mimeType": "application/xml",
+      "size": 5565694,
+      "formattedLastModifiedTime": "03-Dec-2019 09:27",
+      "name": "PPP-2012-book2.xml",
+      "folder": false,
+      "displayLabel": "PPP-2012-book2.xml",
+      "formattedSize": "5.3 MB",
+      "link": "https://www.govinfo.gov/bulkdata/PPP/2012/PPP-2012-book2.xml",
+      "justFileName": "PPP-2012-book2.xml",
+      "fileExtension": "xml"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "files": [
+    {
+      "formattedLastModifiedTime": "31-Oct-2018 12:42",
+      "name": "resources",
+      "folder": true,
+      "displayLabel": "resources",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLS/uslm/resources",
+      "justFileName": "resources"
+    },
+    {
+      "formattedLastModifiedTime": "01-Nov-2018 03:16",
+      "name": "115",
+      "folder": true,
+      "displayLabel": "115th Congress (2017-2018)",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLS/uslm/115",
+      "justFileName": "115"
+    },
+    {
+      "formattedLastModifiedTime": "10-Jan-2020 12:34",
+      "name": "116",
+      "folder": true,
+      "displayLabel": "116th Congress (2019-2020)",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLS/uslm/116",
+      "justFileName": "116"
+    },
+    {
+      "formattedLastModifiedTime": "01-Nov-2018 03:17",
+      "name": "114",
+      "folder": true,
+      "displayLabel": "114th Congress (2015-2016)",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLS/uslm/114",
+      "justFileName": "114"
+    },
+    {
+      "formattedLastModifiedTime": "01-Nov-2018 03:17",
+      "name": "113",
+      "folder": true,
+      "displayLabel": "113th Congress (2013-2014)",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLS/uslm/113",
+      "justFileName": "113"
+    }
+  ]
+}

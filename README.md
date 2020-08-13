@@ -16,19 +16,17 @@ to use tool to grab vital civic data to be used in a wide range of analysis.
 
 ## Setup
 
-Right now, the library is not hosted on **PyPi** so you will need to do a local
-install on your system if you plan to use it in other scrips you use.
-
-First, clone this repo to your local system. After you clone the repo, make sure
-to run the `setup.py` file, so you can install any dependencies you may need. To
-run the `setup.py` file, run the following command in your terminal.
+To **install** the library, run the following command from the terminal.
 
 ```console
-pip install -e .
+pip install united-states-congress-python-api
 ```
 
-This will install all the dependencies listed in the `setup.py` file. Once done
-you can use the library wherever you want.
+To **upgrade** the library, run the following command from the terminal.
+
+```console
+pip install --upgrade united-states-congress-python-api
+```
 
 ## Usage
 

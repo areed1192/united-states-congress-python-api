@@ -1,0 +1,26 @@
+{
+  "files": [
+    {
+      "mimeType": "text/html",
+      "size": 1118,
+      "formattedLastModifiedTime": "02-Jan-2019 08:10",
+      "name": "lockss.html",
+      "folder": false,
+      "displayLabel": "lockss.html",
+      "formattedSize": "1.1 kB",
+      "link": "https://www.govinfo.gov/bulkdata/PPP/resources/lockss.html",
+      "justFileName": "lockss.html"
+    },
+    {
+      "size": 10120,
+      "formattedLastModifiedTime": "07-Jan-2020 10:17",
+      "name": "ppp.xsl",
+      "folder": false,
+      "displayLabel": "ppp.xsl",
+      "formattedSize": "9.9 kB",
+      "link": "https://www.govinfo.gov/bulkdata/PPP/resources/ppp.xsl",
+      "justFileName": "ppp.xsl",
+      "fileExtension": "xsl"
+    }
+  ]
+}

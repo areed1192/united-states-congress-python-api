@@ -1,0 +1,80 @@
+{
+  "files": [
+    {
+      "mimeType": "application/zip",
+      "size": 85630665,
+      "formattedLastModifiedTime": "13-Aug-2020 05:45",
+      "name": "FR-2020.zip",
+      "folder": false,
+      "displayLabel": "FR-2020.zip",
+      "formattedSize": "81.7 MB",
+      "link": "https://www.govinfo.gov/bulkdata/FR/2020/FR-2020.zip",
+      "justFileName": "FR-2020.zip",
+      "fileExtension": "zip"
+    },
+    {
+      "formattedLastModifiedTime": "05-Feb-2020 06:17",
+      "name": "01",
+      "folder": true,
+      "displayLabel": "01",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2020/01",
+      "justFileName": "01"
+    },
+    {
+      "formattedLastModifiedTime": "21-Jul-2020 06:42",
+      "name": "06",
+      "folder": true,
+      "displayLabel": "06",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2020/06",
+      "justFileName": "06"
+    },
+    {
+      "formattedLastModifiedTime": "29-May-2020 09:03",
+      "name": "05",
+      "folder": true,
+      "displayLabel": "05",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2020/05",
+      "justFileName": "05"
+    },
+    {
+      "formattedLastModifiedTime": "21-Jul-2020 03:46",
+      "name": "04",
+      "folder": true,
+      "displayLabel": "04",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2020/04",
+      "justFileName": "04"
+    },
+    {
+      "formattedLastModifiedTime": "12-May-2020 04:05",
+      "name": "03",
+      "folder": true,
+      "displayLabel": "03",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2020/03",
+      "justFileName": "03"
+    },
+    {
+      "formattedLastModifiedTime": "20-Mar-2020 11:57",
+      "name": "02",
+      "folder": true,
+      "displayLabel": "02",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2020/02",
+      "justFileName": "02"
+    },
+    {
+      "formattedLastModifiedTime": "12-Aug-2020 06:28",
+      "name": "07",
+      "folder": true,
+      "displayLabel": "07",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2020/07",
+      "justFileName": "07"
+    },
+    {
+      "formattedLastModifiedTime": "13-Aug-2020 05:45",
+      "name": "08",
+      "folder": true,
+      "displayLabel": "08",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2020/08",
+      "justFileName": "08"
+    }
+  ]
+}

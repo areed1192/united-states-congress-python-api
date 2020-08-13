@@ -1,0 +1,68 @@
+{
+  "files": [
+    {
+      "formattedLastModifiedTime": "06-Mar-2020 07:02",
+      "name": "hr",
+      "folder": true,
+      "displayLabel": "hr",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/114/hr",
+      "justFileName": "hr"
+    },
+    {
+      "formattedLastModifiedTime": "25-Jul-2019 07:01",
+      "name": "s",
+      "folder": true,
+      "displayLabel": "s",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/114/s",
+      "justFileName": "s"
+    },
+    {
+      "formattedLastModifiedTime": "04-Aug-2017 04:53",
+      "name": "hconres",
+      "folder": true,
+      "displayLabel": "hconres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/114/hconres",
+      "justFileName": "hconres"
+    },
+    {
+      "formattedLastModifiedTime": "11-Sep-2019 06:57",
+      "name": "hres",
+      "folder": true,
+      "displayLabel": "hres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/114/hres",
+      "justFileName": "hres"
+    },
+    {
+      "formattedLastModifiedTime": "25-Apr-2017 04:18",
+      "name": "hjres",
+      "folder": true,
+      "displayLabel": "hjres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/114/hjres",
+      "justFileName": "hjres"
+    },
+    {
+      "formattedLastModifiedTime": "08-Mar-2017 04:20",
+      "name": "sconres",
+      "folder": true,
+      "displayLabel": "sconres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/114/sconres",
+      "justFileName": "sconres"
+    },
+    {
+      "formattedLastModifiedTime": "06-Sep-2019 06:58",
+      "name": "sres",
+      "folder": true,
+      "displayLabel": "sres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/114/sres",
+      "justFileName": "sres"
+    },
+    {
+      "formattedLastModifiedTime": "25-Apr-2017 04:17",
+      "name": "sjres",
+      "folder": true,
+      "displayLabel": "sjres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM/114/sjres",
+      "justFileName": "sjres"
+    }
+  ]
+}

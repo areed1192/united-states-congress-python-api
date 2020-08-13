@@ -1,0 +1,112 @@
+{
+  "files": [
+    {
+      "formattedLastModifiedTime": "23-Sep-2019 06:38",
+      "name": "01",
+      "folder": true,
+      "displayLabel": "01",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2002/01",
+      "justFileName": "01"
+    },
+    {
+      "formattedLastModifiedTime": "12-May-2020 06:54",
+      "name": "04",
+      "folder": true,
+      "displayLabel": "04",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2002/04",
+      "justFileName": "04"
+    },
+    {
+      "formattedLastModifiedTime": "17-Oct-2019 07:48",
+      "name": "03",
+      "folder": true,
+      "displayLabel": "03",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2002/03",
+      "justFileName": "03"
+    },
+    {
+      "formattedLastModifiedTime": "22-Feb-2019 06:48",
+      "name": "08",
+      "folder": true,
+      "displayLabel": "08",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2002/08",
+      "justFileName": "08"
+    },
+    {
+      "formattedLastModifiedTime": "24-Jul-2020 08:39",
+      "name": "06",
+      "folder": true,
+      "displayLabel": "06",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2002/06",
+      "justFileName": "06"
+    },
+    {
+      "formattedLastModifiedTime": "26-Jan-2017 03:50",
+      "name": "09",
+      "folder": true,
+      "displayLabel": "09",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2002/09",
+      "justFileName": "09"
+    },
+    {
+      "formattedLastModifiedTime": "31-Jul-2020 06:35",
+      "name": "11",
+      "folder": true,
+      "displayLabel": "11",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2002/11",
+      "justFileName": "11"
+    },
+    {
+      "formattedLastModifiedTime": "21-Jul-2020 05:56",
+      "name": "07",
+      "folder": true,
+      "displayLabel": "07",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2002/07",
+      "justFileName": "07"
+    },
+    {
+      "formattedLastModifiedTime": "05-Aug-2020 10:35",
+      "name": "12",
+      "folder": true,
+      "displayLabel": "12",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2002/12",
+      "justFileName": "12"
+    },
+    {
+      "mimeType": "application/zip",
+      "size": 111576520,
+      "formattedLastModifiedTime": "05-Aug-2020 10:36",
+      "name": "FR-2002.zip",
+      "folder": false,
+      "displayLabel": "FR-2002.zip",
+      "formattedSize": "106.4 MB",
+      "link": "https://www.govinfo.gov/bulkdata/FR/2002/FR-2002.zip",
+      "justFileName": "FR-2002.zip",
+      "fileExtension": "zip"
+    },
+    {
+      "formattedLastModifiedTime": "26-Jan-2017 03:50",
+      "name": "05",
+      "folder": true,
+      "displayLabel": "05",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2002/05",
+      "justFileName": "05"
+    },
+    {
+      "formattedLastModifiedTime": "26-Jan-2017 03:50",
+      "name": "02",
+      "folder": true,
+      "displayLabel": "02",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2002/02",
+      "justFileName": "02"
+    },
+    {
+      "formattedLastModifiedTime": "23-Sep-2019 06:29",
+      "name": "10",
+      "folder": true,
+      "displayLabel": "10",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR/2002/10",
+      "justFileName": "10"
+    }
+  ]
+}

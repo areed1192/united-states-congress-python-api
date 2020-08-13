@@ -1,0 +1,37 @@
+{
+  "files": [
+    {
+      "mimeType": "text/html",
+      "size": 661,
+      "formattedLastModifiedTime": "02-Jan-2019 08:10",
+      "name": "readme.html",
+      "folder": false,
+      "displayLabel": "readme.html",
+      "formattedSize": "661 B",
+      "link": "https://www.govinfo.gov/bulkdata/STATUTE/resources/readme.html",
+      "justFileName": "readme.html"
+    },
+    {
+      "mimeType": "text/html",
+      "size": 1096,
+      "formattedLastModifiedTime": "02-Jan-2019 08:10",
+      "name": "lockss.html",
+      "folder": false,
+      "displayLabel": "lockss.html",
+      "formattedSize": "1.1 kB",
+      "link": "https://www.govinfo.gov/bulkdata/STATUTE/resources/lockss.html",
+      "justFileName": "lockss.html"
+    },
+    {
+      "size": 77707,
+      "formattedLastModifiedTime": "07-Jan-2020 10:18",
+      "name": "uslm.css",
+      "folder": false,
+      "displayLabel": "uslm.css",
+      "formattedSize": "75.9 kB",
+      "link": "https://www.govinfo.gov/bulkdata/STATUTE/resources/uslm.css",
+      "justFileName": "uslm.css",
+      "fileExtension": "css"
+    }
+  ]
+}

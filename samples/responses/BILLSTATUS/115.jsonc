@@ -1,0 +1,68 @@
+{
+  "files": [
+    {
+      "formattedLastModifiedTime": "15-Jun-2020 11:41",
+      "name": "sres",
+      "folder": true,
+      "displayLabel": "sres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSTATUS/115/sres",
+      "justFileName": "sres"
+    },
+    {
+      "formattedLastModifiedTime": "15-Jun-2020 11:41",
+      "name": "sconres",
+      "folder": true,
+      "displayLabel": "sconres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSTATUS/115/sconres",
+      "justFileName": "sconres"
+    },
+    {
+      "formattedLastModifiedTime": "15-Jun-2020 11:41",
+      "name": "sjres",
+      "folder": true,
+      "displayLabel": "sjres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSTATUS/115/sjres",
+      "justFileName": "sjres"
+    },
+    {
+      "formattedLastModifiedTime": "17-Jul-2020 03:04",
+      "name": "hres",
+      "folder": true,
+      "displayLabel": "hres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSTATUS/115/hres",
+      "justFileName": "hres"
+    },
+    {
+      "formattedLastModifiedTime": "13-Aug-2020 03:04",
+      "name": "s",
+      "folder": true,
+      "displayLabel": "s",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSTATUS/115/s",
+      "justFileName": "s"
+    },
+    {
+      "formattedLastModifiedTime": "02-Jul-2020 03:34",
+      "name": "hconres",
+      "folder": true,
+      "displayLabel": "hconres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSTATUS/115/hconres",
+      "justFileName": "hconres"
+    },
+    {
+      "formattedLastModifiedTime": "17-Jul-2020 03:04",
+      "name": "hjres",
+      "folder": true,
+      "displayLabel": "hjres",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSTATUS/115/hjres",
+      "justFileName": "hjres"
+    },
+    {
+      "formattedLastModifiedTime": "13-Aug-2020 03:04",
+      "name": "hr",
+      "folder": true,
+      "displayLabel": "hr",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSTATUS/115/hr",
+      "justFileName": "hr"
+    }
+  ]
+}

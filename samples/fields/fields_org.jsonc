@@ -1,0 +1,1944 @@
+{
+  "CFR": {
+    "endpoints": [
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2008",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2008"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2007",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2007"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2006",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2006"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2009",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2009"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2004",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2004"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2005",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2005"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2001",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2001"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2003",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2003"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2002",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2002"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2000",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2000"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/resources",
+        "Endpoint_Main": "CFR",
+        "File_Name": "resources"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2010",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2010"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/1997",
+        "Endpoint_Main": "CFR",
+        "File_Name": "1997"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/1998",
+        "Endpoint_Main": "CFR",
+        "File_Name": "1998"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/1996",
+        "Endpoint_Main": "CFR",
+        "File_Name": "1996"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/1999",
+        "Endpoint_Main": "CFR",
+        "File_Name": "1999"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2011",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2011"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2012",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2012"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2013",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2013"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2015",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2015"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2014",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2014"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2016",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2016"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2017",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2017"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2018",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2018"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2019",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2019"
+      },
+      {
+        "Endpoint": "CFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CFR/2020",
+        "Endpoint_Main": "CFR",
+        "File_Name": "2020"
+      }
+    ],
+    "paths": [
+      {
+        "file_name": "samples/responses/CFR/2008.jsonc",
+        "arguments": "2008"
+      },
+      {
+        "file_name": "samples/responses/CFR/2007.jsonc",
+        "arguments": "2007"
+      },
+      {
+        "file_name": "samples/responses/CFR/2006.jsonc",
+        "arguments": "2006"
+      },
+      {
+        "file_name": "samples/responses/CFR/2009.jsonc",
+        "arguments": "2009"
+      },
+      {
+        "file_name": "samples/responses/CFR/2004.jsonc",
+        "arguments": "2004"
+      },
+      {
+        "file_name": "samples/responses/CFR/2005.jsonc",
+        "arguments": "2005"
+      },
+      {
+        "file_name": "samples/responses/CFR/2001.jsonc",
+        "arguments": "2001"
+      },
+      {
+        "file_name": "samples/responses/CFR/2003.jsonc",
+        "arguments": "2003"
+      },
+      {
+        "file_name": "samples/responses/CFR/2002.jsonc",
+        "arguments": "2002"
+      },
+      {
+        "file_name": "samples/responses/CFR/2000.jsonc",
+        "arguments": "2000"
+      },
+      {
+        "file_name": "samples/responses/CFR/resources.jsonc",
+        "arguments": "resources"
+      },
+      {
+        "file_name": "samples/responses/CFR/2010.jsonc",
+        "arguments": "2010"
+      },
+      {
+        "file_name": "samples/responses/CFR/1997.jsonc",
+        "arguments": "1997"
+      },
+      {
+        "file_name": "samples/responses/CFR/1998.jsonc",
+        "arguments": "1998"
+      },
+      {
+        "file_name": "samples/responses/CFR/1996.jsonc",
+        "arguments": "1996"
+      },
+      {
+        "file_name": "samples/responses/CFR/1999.jsonc",
+        "arguments": "1999"
+      },
+      {
+        "file_name": "samples/responses/CFR/2011.jsonc",
+        "arguments": "2011"
+      },
+      {
+        "file_name": "samples/responses/CFR/2012.jsonc",
+        "arguments": "2012"
+      },
+      {
+        "file_name": "samples/responses/CFR/2013.jsonc",
+        "arguments": "2013"
+      },
+      {
+        "file_name": "samples/responses/CFR/2015.jsonc",
+        "arguments": "2015"
+      },
+      {
+        "file_name": "samples/responses/CFR/2014.jsonc",
+        "arguments": "2014"
+      },
+      {
+        "file_name": "samples/responses/CFR/2016.jsonc",
+        "arguments": "2016"
+      },
+      {
+        "file_name": "samples/responses/CFR/2017.jsonc",
+        "arguments": "2017"
+      },
+      {
+        "file_name": "samples/responses/CFR/2018.jsonc",
+        "arguments": "2018"
+      },
+      {
+        "file_name": "samples/responses/CFR/2019.jsonc",
+        "arguments": "2019"
+      },
+      {
+        "file_name": "samples/responses/CFR/2020.jsonc",
+        "arguments": "2020"
+      }
+    ],
+    "arguments": [
+      "1996",
+      "1997",
+      "1998",
+      "1999",
+      "2000",
+      "2001",
+      "2002",
+      "2003",
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "resources"
+    ]
+  },
+  "FR": {
+    "endpoints": [
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2005",
+        "Endpoint_Main": "FR",
+        "File_Name": "2005"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2004",
+        "Endpoint_Main": "FR",
+        "File_Name": "2004"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2002",
+        "Endpoint_Main": "FR",
+        "File_Name": "2002"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2001",
+        "Endpoint_Main": "FR",
+        "File_Name": "2001"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2003",
+        "Endpoint_Main": "FR",
+        "File_Name": "2003"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2006",
+        "Endpoint_Main": "FR",
+        "File_Name": "2006"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/resources",
+        "Endpoint_Main": "FR",
+        "File_Name": "resources"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2009",
+        "Endpoint_Main": "FR",
+        "File_Name": "2009"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2007",
+        "Endpoint_Main": "FR",
+        "File_Name": "2007"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2000",
+        "Endpoint_Main": "FR",
+        "File_Name": "2000"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2008",
+        "Endpoint_Main": "FR",
+        "File_Name": "2008"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2010",
+        "Endpoint_Main": "FR",
+        "File_Name": "2010"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2011",
+        "Endpoint_Main": "FR",
+        "File_Name": "2011"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2012",
+        "Endpoint_Main": "FR",
+        "File_Name": "2012"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2013",
+        "Endpoint_Main": "FR",
+        "File_Name": "2013"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2014",
+        "Endpoint_Main": "FR",
+        "File_Name": "2014"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2015",
+        "Endpoint_Main": "FR",
+        "File_Name": "2015"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2016",
+        "Endpoint_Main": "FR",
+        "File_Name": "2016"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2017",
+        "Endpoint_Main": "FR",
+        "File_Name": "2017"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2018",
+        "Endpoint_Main": "FR",
+        "File_Name": "2018"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2019",
+        "Endpoint_Main": "FR",
+        "File_Name": "2019"
+      },
+      {
+        "Endpoint": "FR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/FR/2020",
+        "Endpoint_Main": "FR",
+        "File_Name": "2020"
+      }
+    ],
+    "paths": [
+      {
+        "file_name": "samples/responses/FR/2005.jsonc",
+        "arguments": "2005"
+      },
+      {
+        "file_name": "samples/responses/FR/2004.jsonc",
+        "arguments": "2004"
+      },
+      {
+        "file_name": "samples/responses/FR/2002.jsonc",
+        "arguments": "2002"
+      },
+      {
+        "file_name": "samples/responses/FR/2001.jsonc",
+        "arguments": "2001"
+      },
+      {
+        "file_name": "samples/responses/FR/2003.jsonc",
+        "arguments": "2003"
+      },
+      {
+        "file_name": "samples/responses/FR/2006.jsonc",
+        "arguments": "2006"
+      },
+      {
+        "file_name": "samples/responses/FR/resources.jsonc",
+        "arguments": "resources"
+      },
+      {
+        "file_name": "samples/responses/FR/2009.jsonc",
+        "arguments": "2009"
+      },
+      {
+        "file_name": "samples/responses/FR/2007.jsonc",
+        "arguments": "2007"
+      },
+      {
+        "file_name": "samples/responses/FR/2000.jsonc",
+        "arguments": "2000"
+      },
+      {
+        "file_name": "samples/responses/FR/2008.jsonc",
+        "arguments": "2008"
+      },
+      {
+        "file_name": "samples/responses/FR/2010.jsonc",
+        "arguments": "2010"
+      },
+      {
+        "file_name": "samples/responses/FR/2011.jsonc",
+        "arguments": "2011"
+      },
+      {
+        "file_name": "samples/responses/FR/2012.jsonc",
+        "arguments": "2012"
+      },
+      {
+        "file_name": "samples/responses/FR/2013.jsonc",
+        "arguments": "2013"
+      },
+      {
+        "file_name": "samples/responses/FR/2014.jsonc",
+        "arguments": "2014"
+      },
+      {
+        "file_name": "samples/responses/FR/2015.jsonc",
+        "arguments": "2015"
+      },
+      {
+        "file_name": "samples/responses/FR/2016.jsonc",
+        "arguments": "2016"
+      },
+      {
+        "file_name": "samples/responses/FR/2017.jsonc",
+        "arguments": "2017"
+      },
+      {
+        "file_name": "samples/responses/FR/2018.jsonc",
+        "arguments": "2018"
+      },
+      {
+        "file_name": "samples/responses/FR/2019.jsonc",
+        "arguments": "2019"
+      },
+      {
+        "file_name": "samples/responses/FR/2020.jsonc",
+        "arguments": "2020"
+      }
+    ],
+    "arguments": [
+      "2000",
+      "2001",
+      "2002",
+      "2003",
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "resources"
+    ]
+  },
+  "BILLSTATUS": {
+    "endpoints": [
+      {
+        "Endpoint": "BILLSTATUS",
+        "URL": "https://www.govinfo.gov/bulkdata/json/BILLSTATUS/113",
+        "Endpoint_Main": "BILLSTATUS",
+        "File_Name": "113"
+      },
+      {
+        "Endpoint": "BILLSTATUS",
+        "URL": "https://www.govinfo.gov/bulkdata/json/BILLSTATUS/116",
+        "Endpoint_Main": "BILLSTATUS",
+        "File_Name": "116"
+      },
+      {
+        "Endpoint": "BILLSTATUS",
+        "URL": "https://www.govinfo.gov/bulkdata/json/BILLSTATUS/resources",
+        "Endpoint_Main": "BILLSTATUS",
+        "File_Name": "resources"
+      },
+      {
+        "Endpoint": "BILLSTATUS",
+        "URL": "https://www.govinfo.gov/bulkdata/json/BILLSTATUS/114",
+        "Endpoint_Main": "BILLSTATUS",
+        "File_Name": "114"
+      },
+      {
+        "Endpoint": "BILLSTATUS",
+        "URL": "https://www.govinfo.gov/bulkdata/json/BILLSTATUS/115",
+        "Endpoint_Main": "BILLSTATUS",
+        "File_Name": "115"
+      }
+    ],
+    "paths": [
+      {
+        "file_name": "samples/responses/BILLSTATUS/113.jsonc",
+        "arguments": "113"
+      },
+      {
+        "file_name": "samples/responses/BILLSTATUS/116.jsonc",
+        "arguments": "116"
+      },
+      {
+        "file_name": "samples/responses/BILLSTATUS/resources.jsonc",
+        "arguments": "resources"
+      },
+      {
+        "file_name": "samples/responses/BILLSTATUS/114.jsonc",
+        "arguments": "114"
+      },
+      {
+        "file_name": "samples/responses/BILLSTATUS/115.jsonc",
+        "arguments": "115"
+      }
+    ],
+    "arguments": ["113", "114", "115", "116", "resources"]
+  },
+  "CBD": {
+    "endpoints": [
+      {
+        "Endpoint": "CBD",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CBD/1996",
+        "Endpoint_Main": "CBD",
+        "File_Name": "1996"
+      },
+      {
+        "Endpoint": "CBD",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CBD/2001",
+        "Endpoint_Main": "CBD",
+        "File_Name": "2001"
+      },
+      {
+        "Endpoint": "CBD",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CBD/1999",
+        "Endpoint_Main": "CBD",
+        "File_Name": "1999"
+      },
+      {
+        "Endpoint": "CBD",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CBD/2000",
+        "Endpoint_Main": "CBD",
+        "File_Name": "2000"
+      },
+      {
+        "Endpoint": "CBD",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CBD/1997",
+        "Endpoint_Main": "CBD",
+        "File_Name": "1997"
+      },
+      {
+        "Endpoint": "CBD",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CBD/1998",
+        "Endpoint_Main": "CBD",
+        "File_Name": "1998"
+      },
+      {
+        "Endpoint": "CBD",
+        "URL": "https://www.govinfo.gov/bulkdata/json/CBD/resources",
+        "Endpoint_Main": "CBD",
+        "File_Name": "resources"
+      }
+    ],
+    "paths": [
+      {
+        "file_name": "samples/responses/CBD/1996.jsonc",
+        "arguments": "1996"
+      },
+      {
+        "file_name": "samples/responses/CBD/2001.jsonc",
+        "arguments": "2001"
+      },
+      {
+        "file_name": "samples/responses/CBD/1999.jsonc",
+        "arguments": "1999"
+      },
+      {
+        "file_name": "samples/responses/CBD/2000.jsonc",
+        "arguments": "2000"
+      },
+      {
+        "file_name": "samples/responses/CBD/1997.jsonc",
+        "arguments": "1997"
+      },
+      {
+        "file_name": "samples/responses/CBD/1998.jsonc",
+        "arguments": "1998"
+      },
+      {
+        "file_name": "samples/responses/CBD/resources.jsonc",
+        "arguments": "resources"
+      }
+    ],
+    "arguments": ["1996", "1997", "1998", "1999", "2000", "2001", "resources"]
+  },
+  "PPP": {
+    "endpoints": [
+      {
+        "Endpoint": "PPP",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PPP/2009",
+        "Endpoint_Main": "PPP",
+        "File_Name": "2009"
+      },
+      {
+        "Endpoint": "PPP",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PPP/2010",
+        "Endpoint_Main": "PPP",
+        "File_Name": "2010"
+      },
+      {
+        "Endpoint": "PPP",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PPP/2012",
+        "Endpoint_Main": "PPP",
+        "File_Name": "2012"
+      },
+      {
+        "Endpoint": "PPP",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PPP/2011",
+        "Endpoint_Main": "PPP",
+        "File_Name": "2011"
+      },
+      {
+        "Endpoint": "PPP",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PPP/2013",
+        "Endpoint_Main": "PPP",
+        "File_Name": "2013"
+      },
+      {
+        "Endpoint": "PPP",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PPP/resources",
+        "Endpoint_Main": "PPP",
+        "File_Name": "resources"
+      },
+      {
+        "Endpoint": "PPP",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PPP/2014",
+        "Endpoint_Main": "PPP",
+        "File_Name": "2014"
+      }
+    ],
+    "paths": [
+      {
+        "file_name": "samples/responses/PPP/2009.jsonc",
+        "arguments": "2009"
+      },
+      {
+        "file_name": "samples/responses/PPP/2010.jsonc",
+        "arguments": "2010"
+      },
+      {
+        "file_name": "samples/responses/PPP/2012.jsonc",
+        "arguments": "2012"
+      },
+      {
+        "file_name": "samples/responses/PPP/2011.jsonc",
+        "arguments": "2011"
+      },
+      {
+        "file_name": "samples/responses/PPP/2013.jsonc",
+        "arguments": "2013"
+      },
+      {
+        "file_name": "samples/responses/PPP/resources.jsonc",
+        "arguments": "resources"
+      },
+      {
+        "file_name": "samples/responses/PPP/2014.jsonc",
+        "arguments": "2014"
+      }
+    ],
+    "arguments": ["2009", "2010", "2011", "2012", "2013", "2014", "resources"]
+  },
+  "SCD": {
+    "endpoints": [
+      {
+        "Endpoint": "SCD",
+        "URL": "https://www.govinfo.gov/bulkdata/json/SCD/1937",
+        "Endpoint_Main": "SCD",
+        "File_Name": "1937"
+      },
+      {
+        "Endpoint": "SCD",
+        "URL": "https://www.govinfo.gov/bulkdata/json/SCD/resources",
+        "Endpoint_Main": "SCD",
+        "File_Name": "resources"
+      }
+    ],
+    "paths": [
+      {
+        "file_name": "samples/responses/SCD/1937.jsonc",
+        "arguments": "1937"
+      },
+      {
+        "file_name": "samples/responses/SCD/resources.jsonc",
+        "arguments": "resources"
+      }
+    ],
+    "arguments": ["1937", "resources"]
+  },
+  "BILLS": {
+    "endpoints": [
+      {
+        "Endpoint": "BILLS",
+        "URL": "https://www.govinfo.gov/bulkdata/json/BILLS/resources",
+        "Endpoint_Main": "BILLS",
+        "File_Name": "resources"
+      },
+      {
+        "Endpoint": "BILLS",
+        "URL": "https://www.govinfo.gov/bulkdata/json/BILLS/114",
+        "Endpoint_Main": "BILLS",
+        "File_Name": "114"
+      },
+      {
+        "Endpoint": "BILLS",
+        "URL": "https://www.govinfo.gov/bulkdata/json/BILLS/113",
+        "Endpoint_Main": "BILLS",
+        "File_Name": "113"
+      },
+      {
+        "Endpoint": "BILLS",
+        "URL": "https://www.govinfo.gov/bulkdata/json/BILLS/115",
+        "Endpoint_Main": "BILLS",
+        "File_Name": "115"
+      },
+      {
+        "Endpoint": "BILLS",
+        "URL": "https://www.govinfo.gov/bulkdata/json/BILLS/116",
+        "Endpoint_Main": "BILLS",
+        "File_Name": "116"
+      },
+      {
+        "Endpoint": "BILLS",
+        "URL": "https://www.govinfo.gov/bulkdata/json/BILLS/uslm",
+        "Endpoint_Main": "BILLS",
+        "File_Name": "uslm"
+      }
+    ],
+    "paths": [
+      {
+        "file_name": "samples/responses/BILLS/resources.jsonc",
+        "arguments": "resources"
+      },
+      {
+        "file_name": "samples/responses/BILLS/114.jsonc",
+        "arguments": "114"
+      },
+      {
+        "file_name": "samples/responses/BILLS/113.jsonc",
+        "arguments": "113"
+      },
+      {
+        "file_name": "samples/responses/BILLS/115.jsonc",
+        "arguments": "115"
+      },
+      {
+        "file_name": "samples/responses/BILLS/116.jsonc",
+        "arguments": "116"
+      },
+      {
+        "file_name": "samples/responses/BILLS/uslm.jsonc",
+        "arguments": "uslm"
+      }
+    ],
+    "arguments": ["113", "114", "115", "116", "resources", "uslm"]
+  },
+  "GOVMAN": {
+    "endpoints": [
+      {
+        "Endpoint": "GOVMAN",
+        "URL": "https://www.govinfo.gov/bulkdata/json/GOVMAN/resources",
+        "Endpoint_Main": "GOVMAN",
+        "File_Name": "resources"
+      },
+      {
+        "Endpoint": "GOVMAN",
+        "URL": "https://www.govinfo.gov/bulkdata/json/GOVMAN/2012",
+        "Endpoint_Main": "GOVMAN",
+        "File_Name": "2012"
+      },
+      {
+        "Endpoint": "GOVMAN",
+        "URL": "https://www.govinfo.gov/bulkdata/json/GOVMAN/2011",
+        "Endpoint_Main": "GOVMAN",
+        "File_Name": "2011"
+      },
+      {
+        "Endpoint": "GOVMAN",
+        "URL": "https://www.govinfo.gov/bulkdata/json/GOVMAN/2015",
+        "Endpoint_Main": "GOVMAN",
+        "File_Name": "2015"
+      },
+      {
+        "Endpoint": "GOVMAN",
+        "URL": "https://www.govinfo.gov/bulkdata/json/GOVMAN/2013",
+        "Endpoint_Main": "GOVMAN",
+        "File_Name": "2013"
+      },
+      {
+        "Endpoint": "GOVMAN",
+        "URL": "https://www.govinfo.gov/bulkdata/json/GOVMAN/2014",
+        "Endpoint_Main": "GOVMAN",
+        "File_Name": "2014"
+      },
+      {
+        "Endpoint": "GOVMAN",
+        "URL": "https://www.govinfo.gov/bulkdata/json/GOVMAN/2018",
+        "Endpoint_Main": "GOVMAN",
+        "File_Name": "2018"
+      },
+      {
+        "Endpoint": "GOVMAN",
+        "URL": "https://www.govinfo.gov/bulkdata/json/GOVMAN/2016",
+        "Endpoint_Main": "GOVMAN",
+        "File_Name": "2016"
+      },
+      {
+        "Endpoint": "GOVMAN",
+        "URL": "https://www.govinfo.gov/bulkdata/json/GOVMAN/2017",
+        "Endpoint_Main": "GOVMAN",
+        "File_Name": "2017"
+      },
+      {
+        "Endpoint": "GOVMAN",
+        "URL": "https://www.govinfo.gov/bulkdata/json/GOVMAN/2019",
+        "Endpoint_Main": "GOVMAN",
+        "File_Name": "2019"
+      }
+    ],
+    "paths": [
+      {
+        "file_name": "samples/responses/GOVMAN/resources.jsonc",
+        "arguments": "resources"
+      },
+      {
+        "file_name": "samples/responses/GOVMAN/2012.jsonc",
+        "arguments": "2012"
+      },
+      {
+        "file_name": "samples/responses/GOVMAN/2011.jsonc",
+        "arguments": "2011"
+      },
+      {
+        "file_name": "samples/responses/GOVMAN/2015.jsonc",
+        "arguments": "2015"
+      },
+      {
+        "file_name": "samples/responses/GOVMAN/2013.jsonc",
+        "arguments": "2013"
+      },
+      {
+        "file_name": "samples/responses/GOVMAN/2014.jsonc",
+        "arguments": "2014"
+      },
+      {
+        "file_name": "samples/responses/GOVMAN/2018.jsonc",
+        "arguments": "2018"
+      },
+      {
+        "file_name": "samples/responses/GOVMAN/2016.jsonc",
+        "arguments": "2016"
+      },
+      {
+        "file_name": "samples/responses/GOVMAN/2017.jsonc",
+        "arguments": "2017"
+      },
+      {
+        "file_name": "samples/responses/GOVMAN/2019.jsonc",
+        "arguments": "2019"
+      }
+    ],
+    "arguments": [
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "resources"
+    ]
+  },
+  "BILLSUM": {
+    "endpoints": [
+      {
+        "Endpoint": "BILLSUM",
+        "URL": "https://www.govinfo.gov/bulkdata/json/BILLSUM/114",
+        "Endpoint_Main": "BILLSUM",
+        "File_Name": "114"
+      },
+      {
+        "Endpoint": "BILLSUM",
+        "URL": "https://www.govinfo.gov/bulkdata/json/BILLSUM/113",
+        "Endpoint_Main": "BILLSUM",
+        "File_Name": "113"
+      },
+      {
+        "Endpoint": "BILLSUM",
+        "URL": "https://www.govinfo.gov/bulkdata/json/BILLSUM/resources",
+        "Endpoint_Main": "BILLSUM",
+        "File_Name": "resources"
+      },
+      {
+        "Endpoint": "BILLSUM",
+        "URL": "https://www.govinfo.gov/bulkdata/json/BILLSUM/115",
+        "Endpoint_Main": "BILLSUM",
+        "File_Name": "115"
+      },
+      {
+        "Endpoint": "BILLSUM",
+        "URL": "https://www.govinfo.gov/bulkdata/json/BILLSUM/116",
+        "Endpoint_Main": "BILLSUM",
+        "File_Name": "116"
+      }
+    ],
+    "paths": [
+      {
+        "file_name": "samples/responses/BILLSUM/114.jsonc",
+        "arguments": "114"
+      },
+      {
+        "file_name": "samples/responses/BILLSUM/113.jsonc",
+        "arguments": "113"
+      },
+      {
+        "file_name": "samples/responses/BILLSUM/resources.jsonc",
+        "arguments": "resources"
+      },
+      {
+        "file_name": "samples/responses/BILLSUM/115.jsonc",
+        "arguments": "115"
+      },
+      {
+        "file_name": "samples/responses/BILLSUM/116.jsonc",
+        "arguments": "116"
+      }
+    ],
+    "arguments": ["113", "114", "115", "116", "resources"]
+  },
+  "PAI": {
+    "endpoints": [
+      {
+        "Endpoint": "PAI",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PAI/resources",
+        "Endpoint_Main": "PAI",
+        "File_Name": "resources"
+      },
+      {
+        "Endpoint": "PAI",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PAI/2013",
+        "Endpoint_Main": "PAI",
+        "File_Name": "2013"
+      },
+      {
+        "Endpoint": "PAI",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PAI/2015",
+        "Endpoint_Main": "PAI",
+        "File_Name": "2015"
+      },
+      {
+        "Endpoint": "PAI",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PAI/2011",
+        "Endpoint_Main": "PAI",
+        "File_Name": "2011"
+      },
+      {
+        "Endpoint": "PAI",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PAI/2009",
+        "Endpoint_Main": "PAI",
+        "File_Name": "2009"
+      },
+      {
+        "Endpoint": "PAI",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PAI/2017",
+        "Endpoint_Main": "PAI",
+        "File_Name": "2017"
+      },
+      {
+        "Endpoint": "PAI",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PAI/2007",
+        "Endpoint_Main": "PAI",
+        "File_Name": "2007"
+      },
+      {
+        "Endpoint": "PAI",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PAI/2019",
+        "Endpoint_Main": "PAI",
+        "File_Name": "2019"
+      }
+    ],
+    "paths": [
+      {
+        "file_name": "samples/responses/PAI/resources.jsonc",
+        "arguments": "resources"
+      },
+      {
+        "file_name": "samples/responses/PAI/2013.jsonc",
+        "arguments": "2013"
+      },
+      {
+        "file_name": "samples/responses/PAI/2015.jsonc",
+        "arguments": "2015"
+      },
+      {
+        "file_name": "samples/responses/PAI/2011.jsonc",
+        "arguments": "2011"
+      },
+      {
+        "file_name": "samples/responses/PAI/2009.jsonc",
+        "arguments": "2009"
+      },
+      {
+        "file_name": "samples/responses/PAI/2017.jsonc",
+        "arguments": "2017"
+      },
+      {
+        "file_name": "samples/responses/PAI/2007.jsonc",
+        "arguments": "2007"
+      },
+      {
+        "file_name": "samples/responses/PAI/2019.jsonc",
+        "arguments": "2019"
+      }
+    ],
+    "arguments": [
+      "2007",
+      "2009",
+      "2011",
+      "2013",
+      "2015",
+      "2017",
+      "2019",
+      "resources"
+    ]
+  },
+  "ECFR": {
+    "endpoints": [
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-24",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-24"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-39",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-39"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-18",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-18"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-33",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-33"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-32",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-32"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-36",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-36"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-50",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-50"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-40",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-40"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-7",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-7"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/resources",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "resources"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-6",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-6"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-44",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-44"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-28",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-28"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-19",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-19"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-13",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-13"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-9",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-9"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-27",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-27"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-45",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-45"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-26",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-26"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-29",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-29"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-42",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-42"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-48",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-48"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-22",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-22"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-30",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-30"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-49",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-49"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-34",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-34"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-8",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-8"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-12",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-12"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-38",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-38"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-5",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-5"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-21",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-21"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-14",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-14"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-15",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-15"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-17",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-17"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-10",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-10"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-20",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-20"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-43",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-43"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-2",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-2"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-47",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-47"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-23",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-23"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-1",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-1"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-31",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-31"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-41",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-41"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-4",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-4"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-25",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-25"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-37",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-37"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-3",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-3"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-46",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-46"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-11",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-11"
+      },
+      {
+        "Endpoint": "ECFR",
+        "URL": "https://www.govinfo.gov/bulkdata/json/ECFR/title-16",
+        "Endpoint_Main": "ECFR",
+        "File_Name": "title-16"
+      }
+    ],
+    "paths": [
+      {
+        "file_name": "samples/responses/ECFR/title-24.jsonc",
+        "arguments": "title-24"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-39.jsonc",
+        "arguments": "title-39"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-18.jsonc",
+        "arguments": "title-18"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-33.jsonc",
+        "arguments": "title-33"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-32.jsonc",
+        "arguments": "title-32"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-36.jsonc",
+        "arguments": "title-36"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-50.jsonc",
+        "arguments": "title-50"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-40.jsonc",
+        "arguments": "title-40"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-7.jsonc",
+        "arguments": "title-7"
+      },
+      {
+        "file_name": "samples/responses/ECFR/resources.jsonc",
+        "arguments": "resources"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-6.jsonc",
+        "arguments": "title-6"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-44.jsonc",
+        "arguments": "title-44"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-28.jsonc",
+        "arguments": "title-28"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-19.jsonc",
+        "arguments": "title-19"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-13.jsonc",
+        "arguments": "title-13"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-9.jsonc",
+        "arguments": "title-9"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-27.jsonc",
+        "arguments": "title-27"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-45.jsonc",
+        "arguments": "title-45"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-26.jsonc",
+        "arguments": "title-26"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-29.jsonc",
+        "arguments": "title-29"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-42.jsonc",
+        "arguments": "title-42"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-48.jsonc",
+        "arguments": "title-48"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-22.jsonc",
+        "arguments": "title-22"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-30.jsonc",
+        "arguments": "title-30"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-49.jsonc",
+        "arguments": "title-49"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-34.jsonc",
+        "arguments": "title-34"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-8.jsonc",
+        "arguments": "title-8"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-12.jsonc",
+        "arguments": "title-12"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-38.jsonc",
+        "arguments": "title-38"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-5.jsonc",
+        "arguments": "title-5"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-21.jsonc",
+        "arguments": "title-21"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-14.jsonc",
+        "arguments": "title-14"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-15.jsonc",
+        "arguments": "title-15"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-17.jsonc",
+        "arguments": "title-17"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-10.jsonc",
+        "arguments": "title-10"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-20.jsonc",
+        "arguments": "title-20"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-43.jsonc",
+        "arguments": "title-43"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-2.jsonc",
+        "arguments": "title-2"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-47.jsonc",
+        "arguments": "title-47"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-23.jsonc",
+        "arguments": "title-23"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-1.jsonc",
+        "arguments": "title-1"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-31.jsonc",
+        "arguments": "title-31"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-41.jsonc",
+        "arguments": "title-41"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-4.jsonc",
+        "arguments": "title-4"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-25.jsonc",
+        "arguments": "title-25"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-37.jsonc",
+        "arguments": "title-37"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-3.jsonc",
+        "arguments": "title-3"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-46.jsonc",
+        "arguments": "title-46"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-11.jsonc",
+        "arguments": "title-11"
+      },
+      {
+        "file_name": "samples/responses/ECFR/title-16.jsonc",
+        "arguments": "title-16"
+      }
+    ],
+    "arguments": [
+      "resources",
+      "title-1",
+      "title-10",
+      "title-11",
+      "title-12",
+      "title-13",
+      "title-14",
+      "title-15",
+      "title-16",
+      "title-17",
+      "title-18",
+      "title-19",
+      "title-2",
+      "title-20",
+      "title-21",
+      "title-22",
+      "title-23",
+      "title-24",
+      "title-25",
+      "title-26",
+      "title-27",
+      "title-28",
+      "title-29",
+      "title-3",
+      "title-30",
+      "title-31",
+      "title-32",
+      "title-33",
+      "title-34",
+      "title-36",
+      "title-37",
+      "title-38",
+      "title-39",
+      "title-4",
+      "title-40",
+      "title-41",
+      "title-42",
+      "title-43",
+      "title-44",
+      "title-45",
+      "title-46",
+      "title-47",
+      "title-48",
+      "title-49",
+      "title-5",
+      "title-50",
+      "title-6",
+      "title-7",
+      "title-8",
+      "title-9"
+    ]
+  },
+  "HMAN": {
+    "endpoints": [
+      {
+        "Endpoint": "HMAN",
+        "URL": "https://www.govinfo.gov/bulkdata/json/HMAN/114",
+        "Endpoint_Main": "HMAN",
+        "File_Name": "114"
+      },
+      {
+        "Endpoint": "HMAN",
+        "URL": "https://www.govinfo.gov/bulkdata/json/HMAN/112",
+        "Endpoint_Main": "HMAN",
+        "File_Name": "112"
+      },
+      {
+        "Endpoint": "HMAN",
+        "URL": "https://www.govinfo.gov/bulkdata/json/HMAN/113",
+        "Endpoint_Main": "HMAN",
+        "File_Name": "113"
+      },
+      {
+        "Endpoint": "HMAN",
+        "URL": "https://www.govinfo.gov/bulkdata/json/HMAN/resources",
+        "Endpoint_Main": "HMAN",
+        "File_Name": "resources"
+      },
+      {
+        "Endpoint": "HMAN",
+        "URL": "https://www.govinfo.gov/bulkdata/json/HMAN/115",
+        "Endpoint_Main": "HMAN",
+        "File_Name": "115"
+      },
+      {
+        "Endpoint": "HMAN",
+        "URL": "https://www.govinfo.gov/bulkdata/json/HMAN/116",
+        "Endpoint_Main": "HMAN",
+        "File_Name": "116"
+      }
+    ],
+    "paths": [
+      {
+        "file_name": "samples/responses/HMAN/114.jsonc",
+        "arguments": "114"
+      },
+      {
+        "file_name": "samples/responses/HMAN/112.jsonc",
+        "arguments": "112"
+      },
+      {
+        "file_name": "samples/responses/HMAN/113.jsonc",
+        "arguments": "113"
+      },
+      {
+        "file_name": "samples/responses/HMAN/resources.jsonc",
+        "arguments": "resources"
+      },
+      {
+        "file_name": "samples/responses/HMAN/115.jsonc",
+        "arguments": "115"
+      },
+      {
+        "file_name": "samples/responses/HMAN/116.jsonc",
+        "arguments": "116"
+      }
+    ],
+    "arguments": ["112", "113", "114", "115", "116", "resources"]
+  },
+  "PLAW": {
+    "endpoints": [
+      {
+        "Endpoint": "PLAW",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PLAW/116",
+        "Endpoint_Main": "PLAW",
+        "File_Name": "116"
+      },
+      {
+        "Endpoint": "PLAW",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PLAW/115",
+        "Endpoint_Main": "PLAW",
+        "File_Name": "115"
+      },
+      {
+        "Endpoint": "PLAW",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PLAW/resources",
+        "Endpoint_Main": "PLAW",
+        "File_Name": "resources"
+      },
+      {
+        "Endpoint": "PLAW",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PLAW/114",
+        "Endpoint_Main": "PLAW",
+        "File_Name": "114"
+      },
+      {
+        "Endpoint": "PLAW",
+        "URL": "https://www.govinfo.gov/bulkdata/json/PLAW/113",
+        "Endpoint_Main": "PLAW",
+        "File_Name": "113"
+      }
+    ],
+    "paths": [
+      {
+        "file_name": "samples/responses/PLAW/116.jsonc",
+        "arguments": "116"
+      },
+      {
+        "file_name": "samples/responses/PLAW/115.jsonc",
+        "arguments": "115"
+      },
+      {
+        "file_name": "samples/responses/PLAW/resources.jsonc",
+        "arguments": "resources"
+      },
+      {
+        "file_name": "samples/responses/PLAW/114.jsonc",
+        "arguments": "114"
+      },
+      {
+        "file_name": "samples/responses/PLAW/113.jsonc",
+        "arguments": "113"
+      }
+    ],
+    "arguments": ["113", "114", "115", "116", "resources"]
+  },
+  "STATUTE": {
+    "endpoints": [
+      {
+        "Endpoint": "STATUTE",
+        "URL": "https://www.govinfo.gov/bulkdata/json/STATUTE/125",
+        "Endpoint_Main": "STATUTE",
+        "File_Name": "125"
+      },
+      {
+        "Endpoint": "STATUTE",
+        "URL": "https://www.govinfo.gov/bulkdata/json/STATUTE/123",
+        "Endpoint_Main": "STATUTE",
+        "File_Name": "123"
+      },
+      {
+        "Endpoint": "STATUTE",
+        "URL": "https://www.govinfo.gov/bulkdata/json/STATUTE/122",
+        "Endpoint_Main": "STATUTE",
+        "File_Name": "122"
+      },
+      {
+        "Endpoint": "STATUTE",
+        "URL": "https://www.govinfo.gov/bulkdata/json/STATUTE/resources",
+        "Endpoint_Main": "STATUTE",
+        "File_Name": "resources"
+      },
+      {
+        "Endpoint": "STATUTE",
+        "URL": "https://www.govinfo.gov/bulkdata/json/STATUTE/121",
+        "Endpoint_Main": "STATUTE",
+        "File_Name": "121"
+      },
+      {
+        "Endpoint": "STATUTE",
+        "URL": "https://www.govinfo.gov/bulkdata/json/STATUTE/120",
+        "Endpoint_Main": "STATUTE",
+        "File_Name": "120"
+      },
+      {
+        "Endpoint": "STATUTE",
+        "URL": "https://www.govinfo.gov/bulkdata/json/STATUTE/124",
+        "Endpoint_Main": "STATUTE",
+        "File_Name": "124"
+      },
+      {
+        "Endpoint": "STATUTE",
+        "URL": "https://www.govinfo.gov/bulkdata/json/STATUTE/118",
+        "Endpoint_Main": "STATUTE",
+        "File_Name": "118"
+      },
+      {
+        "Endpoint": "STATUTE",
+        "URL": "https://www.govinfo.gov/bulkdata/json/STATUTE/119",
+        "Endpoint_Main": "STATUTE",
+        "File_Name": "119"
+      },
+      {
+        "Endpoint": "STATUTE",
+        "URL": "https://www.govinfo.gov/bulkdata/json/STATUTE/117",
+        "Endpoint_Main": "STATUTE",
+        "File_Name": "117"
+      },
+      {
+        "Endpoint": "STATUTE",
+        "URL": "https://www.govinfo.gov/bulkdata/json/STATUTE/126",
+        "Endpoint_Main": "STATUTE",
+        "File_Name": "126"
+      },
+      {
+        "Endpoint": "STATUTE",
+        "URL": "https://www.govinfo.gov/bulkdata/json/STATUTE/127",
+        "Endpoint_Main": "STATUTE",
+        "File_Name": "127"
+      }
+    ],
+    "paths": [
+      {
+        "file_name": "samples/responses/STATUTE/125.jsonc",
+        "arguments": "125"
+      },
+      {
+        "file_name": "samples/responses/STATUTE/123.jsonc",
+        "arguments": "123"
+      },
+      {
+        "file_name": "samples/responses/STATUTE/122.jsonc",
+        "arguments": "122"
+      },
+      {
+        "file_name": "samples/responses/STATUTE/resources.jsonc",
+        "arguments": "resources"
+      },
+      {
+        "file_name": "samples/responses/STATUTE/121.jsonc",
+        "arguments": "121"
+      },
+      {
+        "file_name": "samples/responses/STATUTE/120.jsonc",
+        "arguments": "120"
+      },
+      {
+        "file_name": "samples/responses/STATUTE/124.jsonc",
+        "arguments": "124"
+      },
+      {
+        "file_name": "samples/responses/STATUTE/118.jsonc",
+        "arguments": "118"
+      },
+      {
+        "file_name": "samples/responses/STATUTE/119.jsonc",
+        "arguments": "119"
+      },
+      {
+        "file_name": "samples/responses/STATUTE/117.jsonc",
+        "arguments": "117"
+      },
+      {
+        "file_name": "samples/responses/STATUTE/126.jsonc",
+        "arguments": "126"
+      },
+      {
+        "file_name": "samples/responses/STATUTE/127.jsonc",
+        "arguments": "127"
+      }
+    ],
+    "arguments": [
+      "117",
+      "118",
+      "119",
+      "120",
+      "121",
+      "122",
+      "123",
+      "124",
+      "125",
+      "126",
+      "127",
+      "resources"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "files": [
+    {
+      "size": 103290,
+      "formattedLastModifiedTime": "07-Jan-2020 10:17",
+      "name": "FRMergedXML.xsd",
+      "folder": false,
+      "displayLabel": "FRMergedXML.xsd",
+      "formattedSize": "100.9 kB",
+      "link": "https://www.govinfo.gov/bulkdata/FR/resources/FRMergedXML.xsd",
+      "justFileName": "FRMergedXML.xsd",
+      "fileExtension": "xsd"
+    },
+    {
+      "mimeType": "application/pdf",
+      "size": 124580,
+      "formattedLastModifiedTime": "02-Jan-2019 08:10",
+      "name": "FDsys_OFR-XML_User-Guide-v1.pdf",
+      "folder": false,
+      "displayLabel": "FDsys_OFR-XML_User-Guide-v1.pdf",
+      "formattedSize": "121.7 kB",
+      "link": "https://www.govinfo.gov/bulkdata/FR/resources/FDsys_OFR-XML_User-Guide-v1.pdf",
+      "justFileName": "FDsys_OFR-XML_User-Guide-v1.pdf",
+      "fileExtension": "pdf"
+    },
+    {
+      "size": 70542,
+      "formattedLastModifiedTime": "07-Jan-2020 10:17",
+      "name": "fedregister.xsl",
+      "folder": false,
+      "displayLabel": "fedregister.xsl",
+      "formattedSize": "68.9 kB",
+      "link": "https://www.govinfo.gov/bulkdata/FR/resources/fedregister.xsl",
+      "justFileName": "fedregister.xsl",
+      "fileExtension": "xsl"
+    },
+    {
+      "mimeType": "text/html",
+      "size": 1118,
+      "formattedLastModifiedTime": "02-Jan-2019 08:10",
+      "name": "lockss.html",
+      "folder": false,
+      "displayLabel": "lockss.html",
+      "formattedSize": "1.1 kB",
+      "link": "https://www.govinfo.gov/bulkdata/FR/resources/lockss.html",
+      "justFileName": "lockss.html"
+    }
+  ]
+}

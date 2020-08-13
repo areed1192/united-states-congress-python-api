@@ -1,0 +1,20 @@
+{
+  "files": [
+    {
+      "formattedLastModifiedTime": "31-May-2019 02:10",
+      "name": "private",
+      "folder": true,
+      "displayLabel": "private",
+      "link": "https://www.govinfo.gov/bulkdata/json/PLAW/115/private",
+      "justFileName": "private"
+    },
+    {
+      "formattedLastModifiedTime": "15-Jul-2020 10:57",
+      "name": "public",
+      "folder": true,
+      "displayLabel": "public",
+      "link": "https://www.govinfo.gov/bulkdata/json/PLAW/115/public",
+      "justFileName": "public"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "files": [
+    {
+      "mimeType": "application/pdf",
+      "size": 230659,
+      "formattedLastModifiedTime": "02-Jan-2019 08:10",
+      "name": "ECFR-XML-User-Guide.pdf",
+      "folder": false,
+      "displayLabel": "ECFR-XML-User-Guide.pdf",
+      "formattedSize": "225.3 kB",
+      "link": "https://www.govinfo.gov/bulkdata/ECFR/resources/ECFR-XML-User-Guide.pdf",
+      "fileExtension": "pdf",
+      "justFileName": "ECFR-XML-User-Guide.pdf"
+    },
+    {
+      "mimeType": "text/html",
+      "size": 1118,
+      "formattedLastModifiedTime": "02-Jan-2019 08:10",
+      "name": "lockss.html",
+      "folder": false,
+      "displayLabel": "lockss.html",
+      "formattedSize": "1.1 kB",
+      "link": "https://www.govinfo.gov/bulkdata/ECFR/resources/lockss.html",
+      "justFileName": "lockss.html"
+    }
+  ]
+}

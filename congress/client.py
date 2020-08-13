@@ -9,8 +9,10 @@ from typing import Union
 
 class Congress():
 
-    def __init__(self):
+    def __init__(self) -> None:
+        """Initializes the `Congress` client object."""
 
+        # Define the base url.
         self.api_base_url = 'https://www.govinfo.gov'
 
     def __repr__(self) -> str:
@@ -109,7 +111,7 @@ class Congress():
 
         Returns:
         ----
-        List[Dict]: A list of data source resources.
+        List[Dict]: A list of database resources.
         """
 
         # Build the URL.
@@ -123,21 +125,346 @@ class Congress():
 
         return content
 
-    def privacy_act_issuances(self, file: str) -> List[Dict]:
-        """Grabs all the data resources for the Privacy Act Issuances.
+    def privacy_act_issuances(self, folder: str) -> List[Dict]:
+        """Grabs the data resources for the specified folder under the Privacy Act Issuances Resource.
 
         Arguments:
         ----
-        file (str): The file resource to return.
+        Folder (str): The name of the folder resource to return.
 
         Returns:
         ----
-        List[Dict]: A list of data source resources.
+        List[Dict]: A list of file resources.
         """
 
         # Build the URL.
         full_url = self._build_url(
-            endpoint='bulkdata/json/PAI/{file}'.format(file=file)
+            endpoint='bulkdata/json/PAI/{folder}'.format(folder=folder)
+        )
+
+        # Make the request.
+        content = self._make_request(
+            url=full_url,
+            method='get'
+        )
+
+        return content
+
+    def code_of_federal_regulations(self, folder: str) -> List[Dict]:
+        """Grabs the data resources for the specified folder under the Code of Federal Regulations Resource.
+
+        Arguments:
+        ----
+        folder (str): The name of the folder resource to return.
+
+        Returns:
+        ----
+        List[Dict]: A list of file resources.
+        """
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='bulkdata/json/CFR/{folder}'.format(folder=folder)
+        )
+
+        # Make the request.
+        content = self._make_request(
+            url=full_url,
+            method='get'
+        )
+
+        return content
+
+    def federal_register(self, folder: str) -> List[Dict]:
+        """Grabs the data resources for the specified folder under the Federal Register Resource.
+
+        Arguments:
+        ----
+        folder (str): The name of the folder resource to return.
+
+        Returns:
+        ----
+        List[Dict]: A list of file resources.
+        """
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='bulkdata/json/FR/{folder}'.format(folder=folder)
+        )
+
+        # Make the request.
+        content = self._make_request(
+            url=full_url,
+            method='get'
+        )
+
+        return content
+
+    def bill_status(self, folder: str) -> List[Dict]:
+        """Grabs the data resources for the specified folder under the Bill Status Resource.
+
+        Arguments:
+        ----
+        folder (str): The name of the folder resource to return.
+
+        Returns:
+        ----
+        List[Dict]: A list of file resources.
+        """
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='bulkdata/json/BILLSTATUS/{folder}'.format(folder=folder)
+        )
+
+        # Make the request.
+        content = self._make_request(
+            url=full_url,
+            method='get'
+        )
+
+        return content
+
+    def commerce_business_daily(self, folder: str) -> List[Dict]:
+        """Grabs the data resources for the specified folder under the Commerce Business Daily Resource.
+
+        Arguments:
+        ----
+        folder (str): The name of the folder resource to return.
+
+        Returns:
+        ----
+        List[Dict]: A list of file resources.
+        """
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='bulkdata/json/CBD/{folder}'.format(folder=folder)
+        )
+
+        # Make the request.
+        content = self._make_request(
+            url=full_url,
+            method='get'
+        )
+
+        return content
+
+    def public_papers_president(self, folder: str) -> List[Dict]:
+        """Grabs the data resources for the specified folder under the Public Papers of the Presidents of the United States Resource.
+
+        Arguments:
+        ----
+        folder (str): The name of the folder resource to return.
+
+        Returns:
+        ----
+        List[Dict]: A list of file resources.
+        """
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='bulkdata/json/PPP/{folder}'.format(folder=folder)
+        )
+
+        # Make the request.
+        content = self._make_request(
+            url=full_url,
+            method='get'
+        )
+
+        return content
+
+    def supreme_court_decisions(self, folder: str) -> List[Dict]:
+        """Grabs the data resources for the specified folder under the Supreme Court Decisions 1937-1975 (FLITE) Resource.
+
+        Arguments:
+        ----
+        folder (str): The name of the folder resource to return.
+
+        Returns:
+        ----
+        List[Dict]: A list of file resources.
+        """
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='bulkdata/json/SCD/{folder}'.format(folder=folder)
+        )
+
+        # Make the request.
+        content = self._make_request(
+            url=full_url,
+            method='get'
+        )
+
+        return content
+
+    def congressional_bills(self, folder: str) -> List[Dict]:
+        """Grabs the data resources for the specified folder under the Congressional Bills Resource.
+
+        Arguments:
+        ----
+        folder (str): The name of the folder resource to return.
+
+        Returns:
+        ----
+        List[Dict]: A list of file resources.
+        """
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='bulkdata/json/BILLS/{folder}'.format(folder=folder)
+        )
+
+        # Make the request.
+        content = self._make_request(
+            url=full_url,
+            method='get'
+        )
+
+        return content
+
+    def us_government_manuals(self, folder: str) -> List[Dict]:
+        """Grabs the data resources for the specified folder under the United States Government Manual Resource.
+
+        Arguments:
+        ----
+        folder (str): The name of the folder resource to return.
+
+        Returns:
+        ----
+        List[Dict]: A list of file resources.
+        """
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='bulkdata/json/GOVMAN/{folder}'.format(folder=folder)
+        )
+
+        # Make the request.
+        content = self._make_request(
+            url=full_url,
+            method='get'
+        )
+
+        return content
+
+    def bill_summaries(self, folder: str) -> List[Dict]:
+        """Grabs the data resources for the specified folder under the Bill Summaries Resource.
+
+        Arguments:
+        ----
+        folder (str): The name of the folder resource to return.
+
+        Returns:
+        ----
+        List[Dict]: A list of file resources.
+        """
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='bulkdata/json/BILLSUM/{folder}'.format(folder=folder)
+        )
+
+        # Make the request.
+        content = self._make_request(
+            url=full_url,
+            method='get'
+        )
+
+        return content
+
+    def electronic_code_of_federal_regulation(self, folder: str) -> List[Dict]:
+        """Grabs the data resources for the specified folder under the Electronic Code of Federal Regulations Resource.
+
+        Arguments:
+        ----
+        folder (str): The name of the folder resource to return.
+
+        Returns:
+        ----
+        List[Dict]: A list of file resources.
+        """
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='bulkdata/json/ECFR/{folder}'.format(folder=folder)
+        )
+
+        # Make the request.
+        content = self._make_request(
+            url=full_url,
+            method='get'
+        )
+
+        return content
+
+    def house_rules_and_manual(self, folder: str) -> List[Dict]:
+        """Grabs the data resources for the specified folder under the House Rules and Manual Resource.
+
+        Arguments:
+        ----
+        folder (str): The name of the folder resource to return.
+
+        Returns:
+        ----
+        List[Dict]: A list of file resources.
+        """
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='bulkdata/json/HMAN/{folder}'.format(folder=folder)
+        )
+
+        # Make the request.
+        content = self._make_request(
+            url=full_url,
+            method='get'
+        )
+
+        return content
+
+    def private_and_public_laws(self, folder: str) -> List[Dict]:
+        """Grabs the data resources for the specified folder under the Public and Private Laws (xml uslm beta) Resource.
+
+        Arguments:
+        ----
+        folder (str): The name of the folder resource to return.
+
+        Returns:
+        ----
+        List[Dict]: A list of file resources.
+        """
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='bulkdata/json/PLAW/{folder}'.format(folder=folder)
+        )
+
+        # Make the request.
+        content = self._make_request(
+            url=full_url,
+            method='get'
+        )
+
+        return content
+
+    def statutes_at_large(self, folder: str) -> List[Dict]:
+        """Grabs the data resources for the specified folder under the Statutes at Large (xml uslm beta) Resource.
+
+        Arguments:
+        ----
+        folder (str): The name of the folder resource to return.
+
+        Returns:
+        ----
+        List[Dict]: A list of file resources.
+        """
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='bulkdata/json/STATUTE/{folder}'.format(folder=folder)
         )
 
         # Make the request.
