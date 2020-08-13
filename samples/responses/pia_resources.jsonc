@@ -1,0 +1,37 @@
+{
+  "files": [
+    {
+      "size": 16176,
+      "formattedLastModifiedTime": "07-Jan-2020 10:17",
+      "name": "pai.xsd",
+      "folder": false,
+      "displayLabel": "pai.xsd",
+      "formattedSize": "15.8 kB",
+      "link": "https://www.govinfo.gov/bulkdata/PAI/resources/pai.xsd",
+      "justFileName": "pai.xsd",
+      "fileExtension": "xsd"
+    },
+    {
+      "mimeType": "text/html",
+      "size": 1118,
+      "formattedLastModifiedTime": "02-Jan-2019 08:10",
+      "name": "lockss.html",
+      "folder": false,
+      "displayLabel": "lockss.html",
+      "formattedSize": "1.1 kB",
+      "link": "https://www.govinfo.gov/bulkdata/PAI/resources/lockss.html",
+      "justFileName": "lockss.html"
+    },
+    {
+      "size": 18394,
+      "formattedLastModifiedTime": "02-Jan-2019 08:10",
+      "name": "pai.xsl",
+      "folder": false,
+      "displayLabel": "pai.xsl",
+      "formattedSize": "18 kB",
+      "link": "https://www.govinfo.gov/bulkdata/PAI/resources/pai.xsl",
+      "justFileName": "pai.xsl",
+      "fileExtension": "xsl"
+    }
+  ]
+}
